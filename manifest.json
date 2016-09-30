@@ -1,0 +1,15 @@
+{
+  "name": "Hello World v2",
+  "author": {
+    "name": "Erik Dunning",
+    "email": "edunning@zendesk.com",
+    "url": "https://github.com/erikzen"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": { "zendesk":
+    { "ticket_sidebar": "assets/iframe.html" }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
