@@ -8,7 +8,7 @@
   "defaultLocale": "en",
   "private": true,
   "location": { "zendesk":
-    { "ticket_sidebar": "assets/iframe.html" }
+    { "ticket_sidebar": "https://crypticmuse.com:9000" }
   },
   "version": "1.0",
   "frameworkVersion": "2.0"
