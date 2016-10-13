@@ -8,7 +8,7 @@
   "defaultLocale": "en",
   "private": true,
   "location": { "zendesk":
-    { "ticket_sidebar": "http://crypticmuse.com:3000" }
+    { "ticket_sidebar": "http://z3nedunning.herokuapp.com" }
   },
   "version": "1.0",
   "frameworkVersion": "2.0"
