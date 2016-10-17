@@ -1,9 +1,9 @@
 {
   "app": {
-    "description": "Play the famous zen tunes in your help desk.",
-    "name": "Buddha Machine"
+    "description": "A unified Zendesk tool experience.",
+    "name": "Singularity Toolbox"
   },
-  "loading": "Welcome to this Sample App",
+  "loading": "Loading Singularity Toolbox",
   "fetch": {
     "done": "Good",
     "fail": "failed to fetch information from the server"
