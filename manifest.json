@@ -7,8 +7,13 @@
   },
   "defaultLocale": "en",
   "private": true,
-  "location": { "zendesk":
-    { "ticket_sidebar": "https://z3nedunning.herokuapp.com" }
+  "location": { "zendesk": {
+    "top_bar":                "https://crypticmuse.com:3000",
+    "nav_bar":                "https://crypticmuse.com:3000",
+    "ticket_sidebar":         "https://crypticmuse.com:3000",
+    "new_ticket_sidebar":     "https://crypticmuse.com:3000",
+    "user_sidebar":           "https://crypticmuse.com:3000",
+    "organization_sidebar":   "https://crypticmuse.com:3000"
   },
   "version": "1.0",
   "frameworkVersion": "2.0"
