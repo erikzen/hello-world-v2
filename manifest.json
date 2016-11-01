@@ -8,12 +8,12 @@
   "defaultLocale": "en",
   "private": true,
   "location": { "zendesk": {
-      "top_bar":                "https://crypticmuse.com:3000",
-      "nav_bar":                "https://crypticmuse.com:3000",
-      "ticket_sidebar":         "https://crypticmuse.com:3000",
-      "new_ticket_sidebar":     "https://crypticmuse.com:3000",
-      "user_sidebar":           "https://crypticmuse.com:3000",
-      "organization_sidebar":   "https://crypticmuse.com:3000"
+      "top_bar":                "https://zd-singularity-toolbox-s.herokuapp.com",
+      "nav_bar":                "https://zd-singularity-toolbox-s.herokuapp.com",
+      "ticket_sidebar":         "https://zd-singularity-toolbox-s.herokuapp.com",
+      "new_ticket_sidebar":     "https://zd-singularity-toolbox-s.herokuapp.com",
+      "user_sidebar":           "https://zd-singularity-toolbox-s.herokuapp.com",
+      "organization_sidebar":   "https://zd-singularity-toolbox-s.herokuapp.com"
     }
   },
   "version": "1.0",
