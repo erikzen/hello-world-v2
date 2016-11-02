@@ -13,7 +13,8 @@
       "ticket_sidebar":         "https://crypticmuse.com:3000",
       "new_ticket_sidebar":     "https://crypticmuse.com:3000",
       "user_sidebar":           "https://crypticmuse.com:3000",
-      "organization_sidebar":   "https://crypticmuse.com:3000"
+      "organization_sidebar":   "https://crypticmuse.com:3000",
+      "background":             "https://crypticmuse.com:3000"
     }
   },
   "version": "1.0",
